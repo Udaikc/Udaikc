@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my many projects which deems improvments
 - 📫 How to reach me udaikcsps@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am Google Cloud Facilitator and PR and Outreach to GDSC-SJBIT and I am developing a Rover for ISRO
+- ⚡ Fun fact: I am Google Cloud Facilitator and PR and Outreach to GDSC-SJBIT and GDG-SJBIT and I am developing a Rover for ISRO
 
 <!---
 Udaikc/Udaikc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
